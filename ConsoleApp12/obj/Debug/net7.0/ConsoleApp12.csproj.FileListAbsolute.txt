@@ -1,0 +1,15 @@
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.exe
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.deps.json
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.runtimeconfig.json
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.dll
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.pdb
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.dll
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\refint\ConsoleApp12.dll
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.pdb
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\CA.R215.15\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ref\ConsoleApp12.dll
